@@ -1,0 +1,1 @@
+https://github.com/returntocorp/semgrep-interfaces/blob/a36652b1e2b9d089918a88575d00e8c7bdd5afd9/rule_schema.yaml
