@@ -1,5 +1,5 @@
 Code for the `YAML Wrangling with Rust` blog at
-https://parsiya.net/blog/2022-10-15-yaml-wrangling-with-rust/
+https://parsiya.net/blog/2022-10-16-yaml-wrangling-with-rust/
 
 1. Clone this repository.
 2. Download `rule_schema.yaml` from this URL (e.g., `wget`):
